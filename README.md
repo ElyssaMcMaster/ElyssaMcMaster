@@ -8,7 +8,7 @@ I am currently...
 * Working in representation learning and pediatric white matter models
 
 [MASI Lab](https://my.vanderbilt.edu/masi/), Graduate Research Assistant\
-[VALIANT](https://www.vanderbilt.edu/valiant/), President of VALIANT Attempt (graduate student organization)\
+[VALIANT](https://www.vanderbilt.edu/valiant/), President of VALIANT Attempt (graduate student organization)
 
 🤪 Fun fact: I got my start in imaging science with medieval Italian paintings!
 
