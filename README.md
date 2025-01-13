@@ -3,7 +3,7 @@
 I am a PhD student at Vanderbilt University
 
 I am currently...
-* Corresponding author on the [Beyond FA](https://brain.ieee.org/event/isbi-2025/) Challenge at ISBI 2025
+* Corresponding author on the [Beyond FA](https://bfa.grand-challenge.org/) Challenge at ISBI 2025
 * Co-Lead of [OpenDIVE](https://github.com/MASILab/open_dive), a Vandy BrainHack 2025 project to build a command line tool to simplify white matter model visualization
 * Working in representation learning and pediatric white matter models
 
