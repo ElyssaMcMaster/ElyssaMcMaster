@@ -4,7 +4,7 @@ I am a PhD student at Vanderbilt University
 
 I am currently...
 * Corresponding author on the [Beyond FA](https://bfa.grand-challenge.org/) Challenge at [ISBI 2025](https://biomedicalimaging.org/2025/?__hstc=51849206.5f23c0ceceee3e3e71244a51e1dd6456.1730475039641.1736883797604.1736898236738.11&__hssc=51849206.1.1736898236738&__hsfp=832949540)
-* Co-Lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a [Vandy BrainHack](https://brainhack-vandy.github.io/) 2025 project to build a command line tool to simplify white matter model visualization
+* Co-Lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a command line tool to simplify white matter model visualization
 * Working in representation learning and pediatric white matter models
 
 [MASI Lab](https://my.vanderbilt.edu/masi/), Graduate Research Assistant\
