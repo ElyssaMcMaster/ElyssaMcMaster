@@ -1,5 +1,5 @@
 ## Howdy 🤠👋 
-### My name is Elyssa (she/her)
+### My name is Elyssa (she/her/hers)
 I am a PhD student at Vanderbilt University
 
 I am currently...
