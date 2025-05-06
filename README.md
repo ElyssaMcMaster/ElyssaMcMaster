@@ -4,7 +4,7 @@ I am a PhD student at Vanderbilt University
 
 I am currently...
 * Corresponding author on the [Beyond FA](https://bfa.grand-challenge.org/) Challenge. We will accept submissions until July and present at MIDL 2025! 
-* Co-Lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a command line tool to simplify white matter model visualization. This paper was accepted at MIDL 2025 as a [short paper](https://openreview.net/pdf?id=EjqP4vHnHL).
+* Co-Lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a command line tool to simplify white matter model visualization -- accepted at MIDL 2025 as a [short paper](https://openreview.net/pdf?id=EjqP4vHnHL)
 * Working in representation learning and pediatric white matter models
 
 [MASI Lab](https://my.vanderbilt.edu/masi/), Graduate Research Assistant\
