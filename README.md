@@ -16,6 +16,7 @@ I am currently...
 
 📫 elyssa.m.mcmaster@vanderbilt.edu
 
+🎓 [Google Scholar](https://scholar.google.com/citations?user=clsolRwAAAAJ&hl=en)
 
 <!--
 **ElyssaMcMaster/ElyssaMcMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
