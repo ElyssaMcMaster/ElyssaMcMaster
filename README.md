@@ -3,7 +3,6 @@
 I am a PhD student at Vanderbilt University
 
 I am currently...
-* Corresponding author on the [Beyond FA](https://bfa.grand-challenge.org/) Challenge
 * Co-Lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a command line tool to simplify white matter model visualization
 * Working in representation learning and pediatric white matter models
 
