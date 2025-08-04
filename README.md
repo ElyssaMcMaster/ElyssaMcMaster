@@ -3,7 +3,7 @@
 I am a PhD student at Vanderbilt University
 
 I am currently...
-* co-Lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a command line tool to simplify white matter model visualization
+* co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a command line tool to simplify white matter model visualization
 * working in representation learning and pediatric white matter models
 
 [MASI Lab](https://my.vanderbilt.edu/masi/), Graduate Research Assistant\
