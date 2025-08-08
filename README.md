@@ -17,6 +17,8 @@ I am currently...
 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=clsolRwAAAAJ&hl=en)
 
+🤝 [LinkedIn](https://www.linkedin.com/in/elyssa-mcmaster-959696206/)
+
 <!--
 **ElyssaMcMaster/ElyssaMcMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !!!
