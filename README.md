@@ -10,7 +10,7 @@
 ---
 
 ### 🔬 Current Work
-Co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) (with [Adam Saunders](https://github.com/saundersresearch)) — CLI for clean white-matter visualization  
+Co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) (with [Adam Saunders](https://github.com/saundersresearch)) — CLI for white matter visualization  
 Research in representation learning & pediatric white matter models  
 
 **Affiliations:**  
