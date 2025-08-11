@@ -1,26 +1,40 @@
-## Howdy 🤠👋 
-### My name is Elyssa (she/her/hers)
-I am a PhD student at Vanderbilt University
+## Howdy 🤠👋  
+### I'm Elyssa (she/her) — PhD Student at Vanderbilt University
 
-I am currently...
-* co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch), a command line tool to simplify white matter model visualization
-* working in representation learning and pediatric white matter models
+![Location](https://img.shields.io/badge/Location-Vanderbilt%20University,%20Nashville,%20TN-ff69b4)
+![Role](https://img.shields.io/badge/Role-PhD%20Student-blue)
+![Focus](https://img.shields.io/badge/Focus-White%20Matter%20Models-purple)
 
-[MASI Lab](https://my.vanderbilt.edu/masi/), Graduate Research Assistant\
-[VALIANT](https://www.vanderbilt.edu/valiant/), President of VALIANT Attempt (graduate student organization)
+---
 
-🤪 Fun fact: I got my start in imaging science with medieval Italian paintings!
+### 🔬 Current Work
+- 🎯 Co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch) — a command line tool for simplifying white matter model visualization  
+- 🧠 Research in representation learning & pediatric white matter models  
 
-🦋 [@elyssamcmaster.bsky.social](https://bsky.app/profile/elyssamcmaster.bsky.social)
+**Affiliations:**  
+[MASI Lab](https://my.vanderbilt.edu/masi/) — Graduate Research Assistant  
+[VALIANT](https://www.vanderbilt.edu/valiant/) — President, VALIANT Attempt (graduate student organization)  
 
-📫 elyssa.m.mcmaster@vanderbilt.edu
+---
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=clsolRwAAAAJ&hl=en)
+### 🌟 Fun Fact  
+I got my start in imaging science studying medieval Italian paintings! 🎨  
 
-🤝 [LinkedIn](https://www.linkedin.com/in/elyssa-mcmaster-959696206/)
+---
 
-![Most Used Languages](https://raw.githubusercontent.com/ElyssaMcMaster/ElyssaMcMaster/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
+### 📬 Connect with Me
+[![Bluesky](https://img.shields.io/badge/Bluesky-elyssamcmaster.bsky.social-0285ff)](https://bsky.app/profile/elyssamcmaster.bsky.social)
+[![Email](https://img.shields.io/badge/Email-elyssa.m.mcmaster@vanderbilt.edu-red)](mailto:elyssa.m.mcmaster@vanderbilt.edu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4a86e8)](https://scholar.google.com/citations?user=clsolRwAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077b5)](https://www.linkedin.com/in/elyssa-mcmaster-959696206/)
 
+---
+
+### 🧰 Toolbox
+![Skills](https://skillicons.dev/icons?i=python,pytorch,git,github,docker,linux,vscode,md)
+
+### 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElyssaMcMaster&theme=tokyonight&hide_border=true)
 
 
 
