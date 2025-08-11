@@ -1,41 +1,35 @@
-## Howdy 🤠👋  
-### I'm Elyssa (she/her) — PhD Student at Vanderbilt University
+<div align="center">
 
-![Location](https://img.shields.io/badge/Location-Vanderbilt%20University,%20Nashville,%20TN-ff69b4)
-![Role](https://img.shields.io/badge/Role-PhD%20Student-blue)
-![Focus](https://img.shields.io/badge/Focus-White%20Matter%20Models-purple)
+## Howdy 🤠👋  
+**Elyssa McMaster** — PhD Student, Vanderbilt University
+
+![Location](https://img.shields.io/badge/Nashville,%20TN-6a8d73?style=flat&logo=map-pin&logoColor=ffffff)
+![Focus](https://img.shields.io/badge/White%20Matter%20Models-cfa5b0?style=flat&logo=brain&logoColor=ffffff)
+![Research](https://img.shields.io/badge/Representation%20Learning-6a8d73?style=flat)
 
 ---
 
 ### 🔬 Current Work
-- 🎯 Co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) with [Adam Saunders](https://github.com/saundersresearch) — a command line tool for simplifying white matter model visualization  
-- 🧠 Research in representation learning & pediatric white matter models  
+Co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) (with [Adam Saunders](https://github.com/saundersresearch)) — CLI for clean white-matter visualization  
+Research in representation learning & pediatric white matter models  
 
 **Affiliations:**  
-[MASI Lab](https://my.vanderbilt.edu/masi/) — Graduate Research Assistant  
-[VALIANT](https://www.vanderbilt.edu/valiant/) — President, VALIANT Attempt (graduate student organization)  
+[MASI Lab](https://my.vanderbilt.edu/masi/) · [VALIANT](https://www.vanderbilt.edu/valiant/) (President, VALIANT Attempt)  
 
 ---
 
-### 🌟 Fun Fact  
-I got my start in imaging science studying medieval Italian paintings! 🎨  
-
----
-
-### 📬 Connect with Me
-[![Bluesky](https://img.shields.io/badge/Bluesky-elyssamcmaster.bsky.social-0285ff)](https://bsky.app/profile/elyssamcmaster.bsky.social)
-[![Email](https://img.shields.io/badge/Email-elyssa.m.mcmaster@vanderbilt.edu-red)](mailto:elyssa.m.mcmaster@vanderbilt.edu)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4a86e8)](https://scholar.google.com/citations?user=clsolRwAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077b5)](https://www.linkedin.com/in/elyssa-mcmaster-959696206/)
+### 📬 Connect
+[![Email](https://img.shields.io/badge/Email-elyssa.m.mcmaster@vanderbilt.edu-cfa5b0?style=flat&logo=gmail&logoColor=ffffff)](mailto:elyssa.m.mcmaster@vanderbilt.edu)
+[![Scholar](https://img.shields.io/badge/Scholar-Profile-6a8d73?style=flat&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?user=clsolRwAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-cfa5b0?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/elyssa-mcmaster-959696206/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-elyssamcmaster.bsky.social-6a8d73?style=flat&logo=bluesky&logoColor=ffffff)](https://bsky.app/profile/elyssamcmaster.bsky.social)
 
 ---
 
 ### 🧰 Toolbox
-![Skills](https://skillicons.dev/icons?i=python,pytorch,git,github,docker,linux,vscode,md)
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,docker,linux,vscode,md&theme=light&perline=8" />
 
-
-
-
+</div>
 
 
 <!--
@@ -52,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
