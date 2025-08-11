@@ -19,7 +19,8 @@ I am currently...
 
 🤝 [LinkedIn](https://www.linkedin.com/in/elyssa-mcmaster-959696206/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElyssaMcMaster&theme=default&hide_border=true&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElyssaMcMaster&hide_border=true&v=3)](https://github.com/ElyssaMcMaster)
+
 
 
 <!--
