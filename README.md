@@ -33,8 +33,7 @@ I got my start in imaging science studying medieval Italian paintings! 🎨
 ### 🧰 Toolbox
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,git,github,docker,linux,vscode,md)
 
-### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElyssaMcMaster&theme=tokyonight&hide_border=true)
+
 
 
 
