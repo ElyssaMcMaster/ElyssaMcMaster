@@ -19,6 +19,8 @@ I am currently...
 
 🤝 [LinkedIn](https://www.linkedin.com/in/elyssa-mcmaster-959696206/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ElyssaMcMaster)](https://git.io/streak-stats)
+
 <!--
 **ElyssaMcMaster/ElyssaMcMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !!!
