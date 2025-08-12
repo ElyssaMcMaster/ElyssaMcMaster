@@ -37,7 +37,7 @@ I'm a lifelong Philadelphia Eagles fan 🦅
 I've worked as a barista and I love coffee ☕️
 
 ### ✈️ 2025 Travels
-![Pittsburgh](https://img.shields.io/badge/Pittsburgh%20%F0%9F%8F%99%EF%B8%8F-white?style=flat&labelColor=6a8d73)
+![Pittsburgh](https://img.shields.io/badge/Pittsburgh%20%F0%9F%9A%8B-white?style=flat&labelColor=6a8d73)
 ![Washington, DC](https://img.shields.io/badge/Washington%2C%20DC%20%F0%9F%8F%9B%EF%B8%8F-white?style=flat&labelColor=cfa5b0)
 ![Philadelphia](https://img.shields.io/badge/Philadelphia%20%F0%9F%A6%85-white?style=flat&labelColor=6a8d73)
 ![San Diego](https://img.shields.io/badge/San%20Diego%20%F0%9F%8C%8A-white?style=flat&labelColor=cfa5b0)
