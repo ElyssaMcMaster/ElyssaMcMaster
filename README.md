@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ## Howdy 🤠👋  
 **Elyssa McMaster (she/her)** — PhD Student, Vanderbilt University :)
@@ -46,7 +46,6 @@ I've worked as a barista and I love coffee ☕️
 ![Salt Lake City](https://img.shields.io/badge/Salt%20Lake%20City%20%F0%9F%8F%94%EF%B8%8F-white?style=flat&labelColor=6a8d73)
 ![New York](https://img.shields.io/badge/New%20York%20%F0%9F%97%BD%EF%B8%8F-white?style=flat&labelColor=cfa5b0)
 
-</div>
 
 
 <!--
