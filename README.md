@@ -12,6 +12,7 @@
 ### 🔬 Current Work
 Co-lead of [OpenDIVE](https://github.com/MASILab/open_dive) (with [Adam Saunders](https://github.com/saundersresearch)) — CLI for white matter visualization  
 Research in representation learning & pediatric white matter models  
+AI Coach at [VALIANT AI Summer School 2025](https://www.vanderbilt.edu/valiant/ai-summer-school-2025/)
 
 **Affiliations:**  
 [MASI Lab](https://my.vanderbilt.edu/masi/) · [VALIANT](https://www.vanderbilt.edu/valiant/) (President, VALIANT Attempt) · [VISE](https://www.vanderbilt.edu/vise/)
